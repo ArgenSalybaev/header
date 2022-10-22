@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+
+}
+#header{
+    background: #67CDD9
+}
+.headerPhone{
+    margin-top: -400px;
+    margin-left: -550px;
+}
+.headerPhone2{
+    margin-top: -630px;
+    margin-left: 700px;
+}
+.headerBus{
+    margin-top: -550px;
+    margin-left: 700px;
+
+}
