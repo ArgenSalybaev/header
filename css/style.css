@@ -25,3 +25,61 @@
     margin-left: 700px;
 
 }
+.container{
+    background: url("../img/Group 31.png")no-repeat center;
+
+}
+.uslug{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 43px;
+    color: #67CDD9;
+    padding: 150px 0 70px 60px;
+}
+.tex{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #5A5A5A;
+    padding-left: 80px;
+
+}
+.tex2{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    color: #67CDD9;
+    padding:50px 0 30px 80px;
+
+}
+.block{
+    background: url("../img/Rectangle 12.png")no-repeat;
+    width: 606px;
+    height: 385px;
+}
+.tex3{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #5A5A5A;
+    padding-left: 80px;
+}
+.text{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #5A5A5A;
+    padding: 15px 0 15px 80px;
+}
+.block2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding:  0 0 300px 0 ;
+}
