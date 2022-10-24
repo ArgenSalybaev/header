@@ -114,15 +114,17 @@
 .blue{
     width: 60px;
     height: 10px;
-    background: blue;
-    position: absolute;
+    background: rgba(0, 0, 187, 0.8);
+    filter: blur(6.5px);
+    border-radius: 9px;    position: absolute;
     animation: 1s migKey linear infinite;
-}
+ }
 .red{
     width: 60px;
     height: 10px;
-    background: red;
-
+    background: rgba(255, 41, 41, 0.9);
+    filter: blur(6.5px);
+    border-radius: 9px;
 }
 @keyframes migKey {
     from{
@@ -143,13 +145,15 @@
 .blue2{
     width: 80px;
     height: 10px;
-    background: blue;
-}
+    background: rgba(0, 0, 187, 0.8);
+    filter: blur(6.5px);
+    border-radius: 9px;}
 .red2{
     width: 80px;
     height: 10px;
-    background: red;
-    position: absolute;
+    background: rgba(255, 41, 41, 0.9);
+    filter: blur(6.5px);
+    border-radius: 9px;    position: absolute;
     animation: 1s mig2Key linear infinite;
 }
 @keyframes mig2Key {
