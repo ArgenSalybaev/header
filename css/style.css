@@ -167,7 +167,7 @@
     align-items: center;
 }
 .help{
-    padding: 0 10px 0 100px;
+    padding: 0 0 0 50px;
 }
 .scor{
     font-family: 'Montserrat',sans-serif;
@@ -192,7 +192,7 @@
     font-size: 32px;
     line-height: 39px;
     color: #FFFFFF;
-    padding: 0 10px 0 0;
+    padding: 60px 10px 0 0;
 }
 .skill{
     padding: 0 330px 0 0;
@@ -201,4 +201,84 @@
     font-size: 32px;
     line-height: 39px;
     color: #0000BB;
+}
+.contac{
+    display: flex;
+    align-items: center;
+}
+.container3{
+    background: url("../img/Rectangle 13 (1).png")no-repeat center/cover;
+}
+.set{
+    background: url("../img/Rectangle 13.png")no-repeat center;
+    width: 456px;
+    height: 602px;
+    padding-left: 200px;
+}
+.nom{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A1B4;
+    padding: 50px 0 70px 0;
+}
+.bisha{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A1B4;
+    padding: 10px 0 70px 0;
+}
+.whatsapp{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A1B4;
+    border-bottom: 2px solid #00A1B4;
+    width: 40%;
+}
+.instagram{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #00A1B4;
+    border-bottom: 2px solid #00A1B4;
+    width: 40%;
+}
+.insta{
+    padding: 70px 0;
+}
+.fon{
+    padding: 100px 0 100px 0;
+}
+.logo{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 43px;
+    color: #00A1B4;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.button{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #16AEC0;
+    background: #F0F0F0;
+    border: none;
+    border-radius: 15px;
+    padding: 17px 55px;
+    box-shadow: -1px 10px 10px rgba(87, 101, 228, 0.25), inset -2px -2px 4px rgba(0, 0, 0, 0.2), inset 3px 4px 10px #FFFFFF;
+}
+.cnopka{
+    padding-left: 30px;
+}
+.map{
+    padding: 200px 0 100px 0;
 }
